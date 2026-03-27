@@ -2,7 +2,7 @@
 
 A data set about mental health :brain: was analyzed with the objective of discovering behavioral patterns among social media users with different levels of anxiety :warning:.
 
-A hypothesis was formulated, and it states that people who consume lifestyle :dark_sunglasses: and fashion content :nail_care: are expected to have high levels of anxiety :chart_with_upwards_trend:,and they vary according to the content that is consumed.
+A hypothesis was formulated, and it states that people who consume lifestyle :dark_sunglasses: and fashion content :nail_care: are expected to have high levels of anxiety :chart_with_upwards_trend:, and they vary according to the content that is consumed.
 
 It was observed that this hypothesis is a half-truth because there are other users with high levels of anxiety who also consume other kinds of social media content, so it was necessary to consider other variables to describe behavioral patterns among these people accurately :spades: :teddy_bear:.
 
