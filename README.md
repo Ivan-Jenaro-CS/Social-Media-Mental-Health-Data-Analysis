@@ -1,6 +1,6 @@
 # Social-Media-Mental-Health-Data-Analysis
 
-A data set about mental health was analyzed with the objective of discovering behavioral patterns among social media users with different levels of anxiety.
+A data set about mental health :brain: was analyzed with the objective of discovering behavioral patterns among social media users with different levels of anxiety.
 
 A hypothesis was formulated, and it states that people who consume lifestyle and fashion content are expected to have high levels of anxiety,and they vary according to the content that is consumed.
 
