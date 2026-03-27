@@ -6,6 +6,6 @@ A hypothesis was formulated, and it states that people who consume lifestyle :da
 
 It was observed that this hypothesis is a half-truth because there are other users with high levels of anxiety who also consume other kinds of social media content, so it was necessary to consider other variables to describe behavioral patterns among these people accurately :spades: :teddy_bear:.
 
-This analysis concluded that hyper-connected and passive-scroller users present high levels of anxiety and are those who consume content compulsively and spend much time on social media :zap:. This is demonstrated by calculating the Pearson correlation between these variables :chart_with_upwards_trend:, which shows a relatively high value equal to 0.63, and it concludes that the more a user spends time on social media, the higher the level of anxiety it presents.
+This analysis concluded that hyper-connected and passive-scroller users (Fig. 1) present high levels of anxiety and are those who consume content compulsively and spend much time on social media :zap:. This is demonstrated by calculating the Pearson correlation (Fig. 2) between these variables :chart_with_upwards_trend:, which shows a relatively high value equal to 0.63, and it concludes that the more a user spends time on social media, the higher the level of anxiety it presents.
 
 The above indicates that the presence of high levels of anxiety :chart_with_upwards_trend: does not depend on a particular type of social media content but on the time people spend on them.
